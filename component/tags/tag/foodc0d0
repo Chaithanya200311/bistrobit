@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Home</title>
+		<description><![CDATA[]]></description>
+		<link>http://starbelly.windstripedesign.ro/component/tags/tag/2</link>
+		<lastBuildDate>Mon, 27 Nov 2023 17:26:10 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="http://starbelly.windstripedesign.ro/component/tags/tag/food?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Incredible Vegan Mac and Cheese</title>
+			<link>http://starbelly.windstripedesign.ro/pages/blog-style-1/service-sector/incredible-vegan-mac-and-cheese-5</link>
+			<guid isPermaLink="true">http://starbelly.windstripedesign.ro/pages/blog-style-1/service-sector/incredible-vegan-mac-and-cheese-5</guid>
+			<description><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero optio, sed expedita.</p>
+]]></description>
+			<category>Incredible Vegan Mac and Cheese</category>
+			<pubDate>Tue, 07 Nov 2023 23:05:33 +0000</pubDate>
+		</item>
+	</channel>
+</rss>

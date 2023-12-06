@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<?xml-stylesheet href="/media/com_hikashop/css/hikashop.css?v=500" type="text/css"?>
+<?xml-stylesheet href="/media/com_hikashop/css/frontend_default.css?t=1698880436" type="text/css"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<title type="text">Shop List 2</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.ro"/>
+	<id>http://starbelly.windstripedesign.ro/shop/shop-list-2/limit-12/type-atom</id>
+	<updated>2023-11-27T17:30:02+00:00</updated>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="http://starbelly.windstripedesign.ro/shop/shop-list-2/limit-12/type-atom?format=feed"/>
+	<entry>
+		<title>Straciatelsa</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=16&amp;name=straciatela&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=16&amp;name=straciatela&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/2.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/2.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Sauon Gravaax</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=15&amp;name=chevrefrit-au-miele&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=15&amp;name=chevrefrit-au-miele&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/3.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/3.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Chevrfrit au mieli</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=14&amp;name=chevrfrit-au-miel&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=14&amp;name=chevrfrit-au-miel&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/2.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/2.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Chevrefrit au miels</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=13&amp;name=chevrefrit-au-miels&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=13&amp;name=chevrefrit-au-miels&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/1.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/1.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Chvrefrit au miel</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=12&amp;name=chvrefrit-au-miel&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=12&amp;name=chvrefrit-au-miel&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/12.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/12.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Carpaccio de darade</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=11&amp;name=carpaccio-de-darade&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=11&amp;name=carpaccio-de-darade&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/11.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/11.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $6&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Croustilant de poisson</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=10&amp;name=croustilant-de-poisson&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=10&amp;name=croustilant-de-poisson&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/10.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/10.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $4&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Straciatella</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=9&amp;name=straciatella&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:29+00:00</published>
+		<updated>2023-11-09T23:58:29+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=9&amp;name=straciatella&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/9.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/9.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Samon Gravlax</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=8&amp;name=samon-gravlax&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:24+00:00</published>
+		<updated>2023-11-09T23:58:24+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=8&amp;name=samon-gravlax&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/8.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/8.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $9&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+	<entry>
+		<title>Chevrefrit au mel</title>
+		<link rel="alternate" type="text/html" href="http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=7&amp;name=chevrefrit-au-mel&amp;Itemid=174&amp;category_pathway="/>
+		<published>2023-11-09T23:58:24+00:00</published>
+		<updated>2023-11-09T23:58:24+00:00</updated>
+		<id>http://starbelly.windstripedesign.rohttp://starbelly.windstripedesign.ro/index.php?option=com_hikashop&amp;ctrl=product&amp;task=show&amp;cid=7&amp;name=chevrefrit-au-mel&amp;Itemid=174&amp;category_pathway=</id>
+		<summary type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/7.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</summary>
+		<content type="html">&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;http://starbelly.windstripedesign.ro/images/com_hikashop/upload//menu/7.jpg&quot;/&gt;&lt;/td&gt;&lt;td&gt;&lt;div class=&quot;short-description&quot;&gt;
+&lt;p class=&quot;mb-4&quot;&gt;tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;01&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Add to the cart and place an order&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Porro comirton pera nemo veniam&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;02&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enter your phone number and address&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Eligendi adipisci numquam.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;col-lg-4&quot;&gt;
+&lt;div class=&quot;sb-features-item sb-features-item-sm sb-mb-30&quot;&gt;
+&lt;div class=&quot;sb-number&quot;&gt;03&lt;/div&gt;
+&lt;div class=&quot;sb-feature-text&quot;&gt;
+&lt;h4 class=&quot;sb-mb-15&quot;&gt;Enjoy your favorite food at home!&lt;/h4&gt;
+&lt;p class=&quot;sb-text sb-text-sm&quot;&gt;Nnecessitatibus praesentium&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;long-description&quot;&gt;
+&lt;p class=&quot;sb-text mb-3&quot;&gt;Facilis ratione veritatis asperiores doloremque molestiae delectus iure officia earum dolores sit fugiat, repellendus, neque laboriosam optio culpa quibusdam, magnam totam quos. Mollitia dolorem, culpa, dignissimos quas et voluptates architecto in sit totam, quae animi ratione adipisci nulla ab quasi perferendis quo pariatur dolor magnam inventore. Sequi nisi ex excepturi non harum, asperiores laboriosam ipsum voluptate doloribus incidunt nam eveniet similique unde esse voluptatem minus necessitatibus eaque temporibus quaerat accusantium amet deserunt. Iste, facilis? Illo tenetur, libero, non dicta asperiores quisquam voluptas natus aperiam, at perspiciatis repellat voluptate. Autem non reprehenderit, perferendis.&lt;/p&gt;
+&lt;div class=&quot;sb-text&quot;&gt;Consectetur adipisicing elit. Delectus quibusdam repellendus nesciunt cumque fugit numquam adipisci voluptatum quam, sapiente doloribus ut eaque natus laudantium alias illum quos maiores, quia perferendis.&lt;/div&gt;
+&lt;/div&gt;Price : $14&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+	</entry>
+</feed>
